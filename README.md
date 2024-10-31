@@ -16,6 +16,6 @@
 - A página está disponível para ser acessada em:
 https://alan-oliveir.github.io/conversor_moeda/
 
-## Agradecimentos:
+## Agradecimentos e créditos:
 
-Agradecemos à [Alura](https://www.alura.com.br/) pela oportunidade de participar da imersão.
+Agradeço à [Alura](https://www.alura.com.br/) pela oportunidade de participar da Imersão Dev.
